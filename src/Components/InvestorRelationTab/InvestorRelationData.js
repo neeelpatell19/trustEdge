@@ -519,7 +519,9 @@ const investorRelationData = [
       {
         name: 'Outcome of board meeting/rights issue committee meeting',
         files: [
-          { name: 'Outcome 1st BM-Rights issue 02.09.2025 1', path: '/Images/Icons/Documents/RightsIssue/Outcomeofboard/Outcome 1st BM-Rights issue 02.09.2025 1.pdf' }
+          { name: 'Outcome 1st BM-Rights issue 02.09.2025 1', path: '/Images/Icons/Documents/RightsIssue/Outcomeofboard/Outcome 1st BM-Rights issue 02.09.2025 1.pdf' },
+          { name: 'TECL intimation of record date', path: '/Images/Icons/Documents/RightsIssue/Outcomeofboard/TECL intimation of record date.pdf' },
+          { name: 'TECL RI Committee Meeting Outcome 25.09.2025', path: '/Images/Icons/Documents/RightsIssue/Outcomeofboard/TECL RI Committee Meeting Outcome 25.09.2025.pdf' }
         ],
         children: []
       },
@@ -533,6 +535,13 @@ const investorRelationData = [
           { name: 'Prior intimation RI committee 06.09.2025 1', path: '/Images/Icons/Documents/RightsIssue/PriorIntemation/Prior intimation RI committee 06.09.2025 1.pdf' },
           { name: 'TECL Prior intimation of Board meeting-02.09.2025 1', path: '/Images/Icons/Documents/RightsIssue/PriorIntemation/TECL Prior intimation of Board meeting-02.09.2025 1.pdf' },
           { name: 'TECL postponement and rescheduling of RI committee meeting 1', path: '/Images/Icons/Documents/RightsIssue/PriorIntemation/TECL postponement and rescheduling of RI committee meeting 1.pdf' }
+        ],
+        children: []
+      },
+      {
+        name: 'Letter of Offer',
+        files: [
+          { name: 'Final Letter of Offer_TCL25092025', path: '/Images/Icons/Documents/RightsIssue/LetterOfOffer/Final Letter of Offer_TCL25092025.pdf' }
         ],
         children: []
       }
