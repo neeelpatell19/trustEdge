@@ -544,6 +544,15 @@ const investorRelationData = [
           { name: 'Final Letter of Offer_TCL25092025', path: '/Images/Icons/Documents/RightsIssue/LetterOfOffer/Final Letter of Offer_TCL25092025.pdf' }
         ],
         children: []
+      },
+      {
+        name: 'Issue Material',
+        files: [
+          { name: 'Trustedge Capital Ltd_CAF_Final', path: '/Images/Icons/Documents/RightsIssue/IssueMaterial/Trustedge Capital Ltd_CAF_Final.pdf' },
+          { name: 'Final Letter of Offer_TCL25092025 (1)', path: '/Images/Icons/Documents/RightsIssue/IssueMaterial/Final Letter of Offer_TCL25092025 (1).pdf' },
+          { name: 'Rights Entitlement Letter', path: '/Images/Icons/Documents/RightsIssue/IssueMaterial/Rights Entitlemet Letter.pdf' }
+        ],
+        children: []
       }
     ]
   }
