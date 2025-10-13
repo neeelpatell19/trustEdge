@@ -553,6 +553,13 @@ const investorRelationData = [
           { name: 'Rights Entitlement Letter', path: '/Images/Icons/Documents/RightsIssue/IssueMaterial/Rights Entitlemet Letter.pdf' }
         ],
         children: []
+      },
+      {name:'Newspaper Advertisements',
+        files: [
+          { name: 'TECL Newspaper Advertisement', path: '/Images/Icons/Documents/RightsIssue/NewsAdvertisements/TECL Newspaper Advertisement-Rights Issue- Pre-Open.PDF' }
+        ],
+
+        children: []
       }
     ]
   }
