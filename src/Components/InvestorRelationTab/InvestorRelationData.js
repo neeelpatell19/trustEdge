@@ -521,7 +521,8 @@ const investorRelationData = [
         files: [
           { name: 'Outcome 1st BM-Rights issue 02.09.2025 1', path: '/Images/Icons/Documents/RightsIssue/Outcomeofboard/Outcome 1st BM-Rights issue 02.09.2025 1.pdf' },
           { name: 'TECL intimation of record date', path: '/Images/Icons/Documents/RightsIssue/Outcomeofboard/TECL intimation of record date.pdf' },
-          { name: 'TECL RI Committee Meeting Outcome 25.09.2025', path: '/Images/Icons/Documents/RightsIssue/Outcomeofboard/TECL RI Committee Meeting Outcome 25.09.2025.pdf' }
+          { name: 'TECL RI Committee Meeting Outcome 25.09.2025', path: '/Images/Icons/Documents/RightsIssue/Outcomeofboard/TECL RI Committee Meeting Outcome 25.09.2025.pdf' },
+          { name: 'Outcome of RI committee meeting 17.10.2025', path: '/Images/Icons/Documents/RightsIssue/Outcomeofboard/Outcome of RI committee meeting 17.10.2025.pdf' }
         ],
         children: []
       },
@@ -556,7 +557,8 @@ const investorRelationData = [
       },
       {name:'Newspaper Advertisements',
         files: [
-          { name: 'TECL Newspaper Advertisement', path: '/Images/Icons/Documents/RightsIssue/NewsAdvertisements/TECL Newspaper Advertisement-Rights Issue- Pre-Open.PDF' }
+          { name: 'TECL Newspaper Advertisement', path: '/Images/Icons/Documents/RightsIssue/NewsAdvertisements/TECL Newspaper Advertisement-Rights Issue- Pre-Open.PDF' },
+          { name: 'TECL Newspaper publication post allotment_20.10.2025', path: '/Images/Icons/Documents/RightsIssue/NewsAdvertisements/TECL Newspaper publication post allotment_20.10.2025.pdf' }
         ],
 
         children: []
