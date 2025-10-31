@@ -240,6 +240,7 @@ const investorRelationData = [
             name: '2025-26',
             files: [
               { name: '30.06.2025', path: '/Images/Icons/Documents/Financial Result/Quarterly Financial Result/2025-26/30.06.2025.pdf' },
+              { name: '30.09.2025', path: '/Images/Icons/Documents/Financial Result/Quarterly Financial Result/2025-26/30.09.2025.pdf' }
             ]
           },
           {
@@ -479,7 +480,9 @@ const investorRelationData = [
   {
     name: 'Trustedge Employee Stock Option Scheme 2025',
     files: [
-      { name: 'BSE intimation for ESOP grant 24.07.2025 1', path: '/Images/Icons/Documents/Trustedge Employee Stock Option/BSE intimation for ESOP grant.pdf' }
+      { name: 'BSE intimation for ESOP grant 24.07.2025 1', path: '/Images/Icons/Documents/Trustedge Employee Stock Option/BSE intimation for ESOP grant.pdf' },
+      { name: 'ESOP Scheme', path: '/Images/Icons/Documents/Trustedge Employee Stock Option/ESOP Scheme.pdf' },
+      { name: 'ESOP Certificate from Secretarial auditor 2025', path: '/Images/Icons/Documents/Trustedge Employee Stock Option/ESOP Certificate from Secretarial auditor 2025.PDF' }
     ],
     children: []
   },
