@@ -405,8 +405,8 @@ const investorRelationData = [
                 path: "/Images/Icons/Documents/Financial Result/Quarterly Financial Result/2025-26/30.09.2025.pdf",
               },
               {
-                name: '30.12.2025',
-                path: "/Images/Icons/Documents/Financial Result/Quarterly Financial Result/2025-26/30.12.2025.pdf"
+                name: '31.12.2025',
+                path: "/Images/Icons/Documents/Financial Result/Quarterly Financial Result/2025-26/31.12.2025.pdf"
               }
             ],
           },
