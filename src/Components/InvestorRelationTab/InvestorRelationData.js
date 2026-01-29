@@ -534,7 +534,30 @@ const investorRelationData = [
       {
         name: '2025-26',
         files: [
-          
+          {
+            name: 'Intimation of Board Meeting for the Quarter ended on 28-01-2026',
+            path: '/Images/Icons/Documents/Notice of Board Meeting/2025-26/Intimation BM 28.01.2026.pdf',
+          },
+          {
+            name: 'Intimation of Board Meeting for the Quarter ended on 31-10-2025',
+            path: '/Images/Icons/Documents/Notice of Board Meeting/2025-26/Intimation BM 31.10.2025.pdf',
+          },
+          {
+            name: 'Intimation of Board Meeting for the Quarter ended on 02-09-2025',
+            path: '/Images/Icons/Documents/Notice of Board Meeting/2025-26/Intimation BM 02.09.2025.pdf',
+          },
+          {
+            name: 'Intimation of Board Meeting for the Quarter ended on 11/08/2025',
+            path: '/Images/Icons/Documents/Notice of Board Meeting/2025-26/Intimation BM 11.08.2025.pdf',
+          },
+          {
+            name: 'Intimation of Board Meeting for the Quarter ended on 26/05/2025',
+            path: '/Images/Icons/Documents/Notice of Board Meeting/2025-26/Intimation BM 26.05.2025.pdf',
+          },
+          {
+            name: 'Intimation of Board Meeting for the Quarter ended on 10/04/2025',
+            path: '/Images/Icons/Documents/Notice of Board Meeting/2025-26/Intimation BM 10.04.2025.pdf'
+          }
         ]
       },
       {
