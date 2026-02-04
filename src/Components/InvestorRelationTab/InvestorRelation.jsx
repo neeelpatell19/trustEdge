@@ -5,6 +5,8 @@ import "./InvestorRelation.css"
 import investorRelationData from './InvestorRelationData'
 import { useLocation, useNavigate } from 'react-router-dom';
 import { Helmet } from 'react-helmet-async';
+import ContactsTable from './ContactsTable';
+
 
 const { Sider, Content } = Layout;
 const { Title } = Typography;
@@ -269,6 +271,9 @@ const InvestorRelation = () => {
                   {folderPath[0]} Folders
                 </Title>
               )}
+              {currentNode && currentNode.name === "Contacts" ? (
+    <ContactsTable />
+  ) : (
               <Row gutter={[16, 16]}>
                 {/* Show immediate children folders */}
                 {sortedChildren.map((child, idx) => (
@@ -327,6 +332,7 @@ const InvestorRelation = () => {
                   <Col span={24}><Typography.Text type="secondary">No documents found in this folder.</Typography.Text></Col>
                 )}
               </Row>
+              )}
             </Content>
           </Layout>
           {/* Floating Filter Button for Mobile */}
