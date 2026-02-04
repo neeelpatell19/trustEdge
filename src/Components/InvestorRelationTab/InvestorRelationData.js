@@ -869,6 +869,35 @@ const investorRelationData = [
     ],
   },
   {
+    name: "Statement of Deviation",
+    files:[],
+    children:[
+        {
+        name: "2025-26",
+        files: [
+          {
+            name: "statement of deviation 31.12.2025.pdf",
+            path: "/Images/Icons/Documents/Statement of Deviation/statement of deviation 31.12.2025.pdf",
+          },
+          {
+            name: "statement of deviation 30.09.2025.pdf",
+            path: "/Images/Icons/Documents/Statement of Deviation/statement of deviation 30.09.2025.pdf",
+          },
+          {
+            name: "statement of deviation 30.06.2025.pdf",
+            path: "/Images/Icons/Documents/Statement of Deviation/statement of deviation 30.06.2025.pdf",
+          },
+          {
+            name: "statement of deviation 31.03.2025.pdf",
+            path: "/Images/Icons/Documents/Statement of Deviation/statement of deviation 31.03.2025.pdf",
+          },
+        ],
+      },
+       
+    ]
+  },
+  
+  {
     name: "Policies",
     files: [
       {
