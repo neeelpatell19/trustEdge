@@ -241,6 +241,84 @@ const investorRelationData = [
     ],
   },
   {
+    name: "Annual Return",
+    files:[],
+    children:[
+        {
+        name: "2024-25",
+        files: [
+          {
+            name: "Annual Return 2024-2025.pdf",
+            path: "/Images/Icons/Documents/Annual Return/2024-25/Annual Return 2024-25.pdf",
+          },
+        ],
+      },
+        {
+        name: "2023-24",
+        files: [
+          {
+            name: "Annual Return 2023-2024.pdf",
+            path: "/Images/Icons/Documents/Annual Return/2023-24/Annual Return 2023-24.pdf",
+          },
+        ],
+      },
+        {
+        name: "2022-23",
+        files: [
+          {
+            name: "Annual Return 2022-2023.pdf",
+            path: "/Images/Icons/Documents/Annual Return/2022-23/Annual Return 2022-23.pdf",
+          },
+        ],
+      },
+       {
+        name: "2021-22",
+        files: [
+          {
+            name: "Annual Return 2021-2022.pdf",
+            path: "/Images/Icons/Documents/Annual Return/2021-22/Annual Return 2021-22.pdf",
+          },
+        ],
+      },
+        {
+        name: "2020-21",
+        files: [
+          {
+            name: "Annual Return 2020-2021.pdf",
+            path: "/Images/Icons/Documents/Annual Return/2020-21/Annual Return 2020-21.pdf",
+          },
+        ],
+      },
+        {
+        name: "2019-20",
+        files: [
+          {
+            name: "Annual Return 2019-2020.pdf",
+            path: "/Images/Icons/Documents/Annual Return/2019-20/Annual Return 2019-20.pdf",
+          },
+        ],
+      },
+        {
+        name: "2018-19",
+        files: [
+          {
+            name: "Annual Return 2018-2019.pdf",
+            path: "/Images/Icons/Documents/Annual Return/2018-19/Annual Return 2018-19.pdf",
+          },
+        ],
+      },
+        {
+        name: "2017-18",
+        files: [
+          {
+            name: "Annual Return 2017-2018.pdf",
+            path: "/Images/Icons/Documents/Annual Return/2017-18/Annual Retrun 2017-18.pdf",
+          },
+        ],
+      }
+    ]
+  },
+  {
     name: "Downloads",
     files: [
       {
@@ -1115,6 +1193,8 @@ const investorRelationData = [
         children: [],
       },
     ],
+    
+    
   },
 ];
 
