@@ -1,0 +1,229 @@
+.contacts-table-container {
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  margin: 20px 0;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+
+}
+
+.contacts-table-container h3 {
+  margin-bottom: 10px;
+  color: #333;
+  font-size: 1.5rem;
+  font-family: inherit;
+  
+  
+}
+
+.contacts-note {
+  margin-bottom: 20px;
+  /* font-style: italic; */
+  color: #666;
+  font-size: 0.95rem;
+  font-family: inherit;
+}
+
+.contacts-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  font-family: inherit;
+}
+
+.contacts-table th,
+.contacts-table td {
+  border: 1px solid #ddd;
+  padding: 15px;
+  text-align: left;
+  vertical-align: top;
+  font-family: inherit;
+}
+
+.contacts-table th {
+  background-color: #f2f2f2;
+  /* font-weight: bold; */
+  font-weight: 600;
+  color: #333;
+  font-size: 1.1rem;
+  font-family: inherit;
+}
+
+.contacts-table td p {
+  margin: 8px 0;
+  line-height: 1.6;
+  font-family: inherit;
+  font-weight: 400;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  
+}
+.contacts-table td p svg {
+  flex-shrink: 0;
+  vertical-align: middle;
+  margin-top: 3px; /* Fine-tune vertical alignment */
+}
+
+.txt {
+    font-size: 18px !important;
+}
+.xt{
+    font-size: 16px !important;
+    margin-top: 0px;
+   
+    /* align-items: center; */
+}
+.xt strong{
+    display: flex;
+    align-items: center;
+}
+.xvg{
+    font-size: 15px;
+}
+.h{
+    /* display: flex; */
+    /* flex-direction: 
+    ; */
+    display: flex;
+    gap: 6px;
+    justify-items: flex-start;
+    align-items: center;
+}
+
+.j{
+    margin-top: 0px;
+}
+.contacts-table td p:first-child {
+  margin-top: 0;
+}
+
+.contacts-table a {
+  color: #0066cc;
+  text-decoration: none;
+  font-family: inherit;
+}
+
+.contacts-table a:hover {
+  text-decoration: underline;
+}
+
+/* Tablet View (768px - 1024px) */
+@media (max-width: 1024px) {
+  .contacts-table-container {
+    padding: 16px;
+    margin: 16px 0;
+  }
+
+  .contacts-table-container h3 {
+    font-size: 1.3rem;
+  }
+
+  .contacts-table th {
+    font-size: 1rem;
+  }
+
+  .contacts-table th,
+  .contacts-table td {
+    padding: 12px;
+  }
+
+  .contacts-table {
+    font-size: 0.9rem;
+  }
+}
+
+/* Mobile View (below 768px) */
+@media (max-width: 768px) {
+  .contacts-table-container {
+    padding: 12px;
+    margin: 12px 0;
+  }
+
+  .contacts-table-container h3 {
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+  }
+
+  .contacts-note {
+    font-size: 0.85rem;
+    margin-bottom: 16px;
+  }
+
+  /* Stack table as cards on mobile */
+  .contacts-table,
+  .contacts-table thead,
+  .contacts-table tbody,
+  .contacts-table th,
+  .contacts-table td,
+  .contacts-table tr {
+    display: block;
+  }
+
+  .contacts-table thead {
+    display: none;
+  }
+
+  .contacts-table tr {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 12px;
+    background-color: #fafafa;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+
+  .contacts-table td {
+    border: none;
+    padding: 8px 0;
+    position: relative;
+    padding-left: 0;
+  }
+
+  .contacts-table td::before {
+    content: attr(data-label);
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+    color: #333;
+    font-size: 1rem;
+  }
+
+  .contacts-table td p {
+    margin: 6px 0;
+    font-size: 0.85rem;
+  }
+
+  .contacts-table a {
+    word-break: break-word;
+  }
+}
+
+/* Extra small mobile (below 480px) */
+@media (max-width: 480px) {
+  .contacts-table-container {
+    padding: 8px;
+  }
+
+  .contacts-table-container h3 {
+    font-size: 1.1rem;
+  }
+
+  .contacts-note {
+    font-size: 0.8rem;
+  }
+
+  .contacts-table tr {
+    padding: 10px;
+    margin-bottom: 16px;
+  }
+
+  .contacts-table td p {
+    font-size: 0.8rem;
+  }
+
+  .contacts-table td::before {
+    font-size: 0.95rem;
+  }
+}

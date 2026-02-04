@@ -1119,6 +1119,11 @@ const investorRelationData = [
     children: [],
   },
   {
+  name: "Contacts",
+  files: [],
+  children: [],
+},
+  {
     name: "Rights Issue",
     files: [
       {
