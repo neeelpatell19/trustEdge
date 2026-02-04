@@ -758,6 +758,21 @@ const investorRelationData = [
     files: [],
     children: [
       {
+        name: "2025-26",
+        files: [
+          {
+            name: "Shareholding pattern 30.06.2025",
+            path: "/Images/Icons/Documents/Shareholding Pattern/2025-26/Shareholding pattern 30.06.2025.pdf",
+          },{
+            name: "Shareholding pattern 30.09.2025",
+            path: "/Images/Icons/Documents/Shareholding Pattern/2025-26/Shareholding pattern 30.09.2025.pdf",
+          },{
+            name: "Shareholding pattern 31.12.2025",
+            path: "/Images/Icons/Documents/Shareholding Pattern/2025-26/Shareholding pattern 31.12.2025.pdf",
+          }
+        ]
+      },
+      {
         name: "2024-25",
         files: [
           {
