@@ -1241,6 +1241,23 @@ const investorRelationData = [
 
         children: [],
       },
+      {
+        name: "Monitoring Agency Report",
+        files: [
+          
+        ],
+
+        children: [
+          {
+          name: '31.12.2025',
+          files: [
+            {
+              name: 'Monitoring Agency Report',
+              path: "/Images/Icons/Documents/RightsIssue/MonitoringAgencyReport/Monitoring Agency Report 31.12.2025.pdf"
+            }
+          ]
+        }],
+      },
     ],
     
     
