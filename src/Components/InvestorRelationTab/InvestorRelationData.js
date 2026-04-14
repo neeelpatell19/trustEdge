@@ -769,6 +769,9 @@ const investorRelationData = [
           },{
             name: "Shareholding pattern 31.12.2025",
             path: "/Images/Icons/Documents/Shareholding Pattern/2025-26/Shareholding pattern 31.12.2025.pdf",
+          },{
+            name: "Shareholding pattern 31.03.2026",
+            path: "/Images/Icons/Documents/Shareholding Pattern/2025-26/Shareholding pattern 31.03.2026.pdf",
           }
         ]
       },
