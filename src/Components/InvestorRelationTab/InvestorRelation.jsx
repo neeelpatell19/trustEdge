@@ -174,6 +174,8 @@ const InvestorRelation = () => {
     }
   };
 
+  const renderFolderPath = (path) => path.join(' > ');
+
   return (
     <section className="paddingTop InvestorRelation">
       <Helmet>
@@ -262,13 +264,13 @@ const InvestorRelation = () => {
                     Back
                   </Button>
                   <Title level={4} style={{ marginBottom: 16, fontSize: screens.xs ? 18 : 24 }}>
-                    {folderPath[folderPath.length - 1]} Folders
+                    {renderFolderPath(folderPath)}
                   </Title>
                 </div>
               )}
               {folderPath.length === 1 && (
                 <Title level={4} style={{ marginBottom: 16, fontSize: screens.xs ? 18 : 24 }}>
-                  {folderPath[0]} Folders
+                  {renderFolderPath(folderPath)}
                 </Title>
               )}
               {currentNode && currentNode.name === "Contacts" ? (

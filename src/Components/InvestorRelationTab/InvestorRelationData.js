@@ -442,6 +442,15 @@ const investorRelationData = [
         name: "Regulation 30 of SEBI (LODR) Regulation, 2015",
         files: [],
         children: [
+          {
+            name: "2026-27",
+            files: [
+              {
+                name: "Intimation dated 12.05.2026 final",
+                path: "/Images/Icons/Documents/Corporate Annoucements/Regulation 30 of SEBI (LODR) Regulation, 2015/2026-27/Intimation dated 12.05.2026 final.pdf",
+              },
+            ],
+          },
           { name: "2024-25", files: [] },
           { name: "2023-24", files: [] },
           { name: "2022-23", files: [] },
@@ -617,6 +626,15 @@ const investorRelationData = [
     name: "Notice of Board Meeting",
     files: [],
     children: [
+      {
+        name: "2026-27",
+        files: [
+          {
+            name: "Prior Intimation Board Meeting-12.05.2026",
+            path: "/Images/Icons/Documents/Notice of Board Meeting/2026-27/Prior Intimation Board Meeting-12.05.2026.pdf",
+          },
+        ],
+      },
       {
         name: '2025-26',
         files: [
@@ -913,6 +931,10 @@ const investorRelationData = [
             name: "statement of deviation 31.03.2025.pdf",
             path: "/Images/Icons/Documents/Statement of Deviation/statement of deviation 31.03.2025.pdf",
           },
+          {
+            name: "Statement of deviation 31.03.2026",
+            path: "/Images/Icons/Documents/Statement of Deviation/Statement of deviation 31.03.2026.pdf",
+          },
         ],
       },
        
@@ -1089,21 +1111,35 @@ const investorRelationData = [
   },
   {
     name: "Trustedge Employee Stock Option Scheme 2025",
-    files: [
+    files: [],
+    children: [
       {
-        name: "BSE intimation for ESOP grant 24.07.2025 1",
-        path: "/Images/Icons/Documents/Trustedge Employee Stock Option/BSE intimation for ESOP grant.pdf",
+        name: "2026-27",
+        files: [
+          {
+            name: "Intimation for Grant and Cancellation of ESOP 12.05.2026",
+            path: "/Images/Icons/Documents/Trustedge Employee Stock Option/2026-27/Intimation for Grant and Cancellation of ESOP 12.05.2026.pdf",
+          },
+        ],
       },
       {
-        name: "ESOP Scheme",
-        path: "/Images/Icons/Documents/Trustedge Employee Stock Option/ESOP Scheme.pdf",
-      },
-      {
-        name: "ESOP Certificate from Secretarial auditor 2025",
-        path: "/Images/Icons/Documents/Trustedge Employee Stock Option/ESOP Certificate from Secretarial auditor 2025.PDF",
+        name: "2025-26",
+        files: [
+          {
+            name: "BSE intimation for ESOP grant 24.07.2025 1",
+            path: "/Images/Icons/Documents/Trustedge Employee Stock Option/2025-26/BSE intimation for ESOP grant.pdf",
+          },
+          {
+            name: "ESOP Scheme",
+            path: "/Images/Icons/Documents/Trustedge Employee Stock Option/2025-26/ESOP Scheme.pdf",
+          },
+          {
+            name: "ESOP Certificate from Secretarial auditor 2025",
+            path: "/Images/Icons/Documents/Trustedge Employee Stock Option/2025-26/ESOP Certificate from Secretarial auditor 2025.PDF",
+          },
+        ],
       },
     ],
-    children: [],
   },
   {
     name: "Secretrial Audit Report",
@@ -1256,14 +1292,24 @@ const investorRelationData = [
 
         children: [
           {
-          name: '31.12.2025',
-          files: [
-            {
-              name: 'Monitoring Agency Report',
-              path: "/Images/Icons/Documents/RightsIssue/MonitoringAgencyReport/Monitoring Agency Report 31.12.2025.pdf"
-            }
-          ]
-        }],
+            name: "31.03.2026",
+            files: [
+              {
+                name: "Monitoring Agency Report 31.03.2026",
+                path: "/Images/Icons/Documents/RightsIssue/MonitoringAgencyReport/31.03.2026/Monitoring Agency Report 31.03.2026.pdf",
+              },
+            ],
+          },
+          {
+            name: "31.12.2025",
+            files: [
+              {
+                name: "Monitoring Agency Report",
+                path: "/Images/Icons/Documents/RightsIssue/MonitoringAgencyReport/Monitoring Agency Report 31.12.2025.pdf",
+              },
+            ],
+          },
+        ],
       },
     ],
     
