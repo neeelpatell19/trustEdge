@@ -378,7 +378,11 @@ const investorRelationData = [
               },
               {
                 name: "Newspaper advertisement for results Q3 2025-26",
-                path: "/Images/Icons/Documents/Corporate Annoucements/Newspaper advertisments/2025-26/Newspaper advertisement for results Q3 2025-26.pdf"
+                path: "/Images/Icons/Documents/Corporate Annoucements/Newspaper advertisments/2025-26/Newspaper advertisement for results Q3 2025-26.pdf",
+              },
+              {
+                name: "Newspaper Advertisement for Results Q4 2025-26",
+                path: "/Images/Icons/Documents/Corporate Annoucements/Newspaper advertisments/2025-26/Newspaper Advertisement for Results Q4 2025-26.pdf",
               },
               {
                 name: "Newspaper advertisement for the audited FR March 2025",
