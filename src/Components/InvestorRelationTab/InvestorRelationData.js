@@ -450,6 +450,10 @@ const investorRelationData = [
             name: "2026-27",
             files: [
               {
+                name: "Outcome of Board Meeting dated 07.07.2026",
+                path: "/Images/Icons/Documents/Corporate Annoucements/Regulation 30 of SEBI (LODR) Regulation, 2015/2026-27/Outcome of Board Meeting dated 07.07.2026.pdf",
+              },
+              {
                 name: "Intimation dated 12.05.2026 final",
                 path: "/Images/Icons/Documents/Corporate Annoucements/Regulation 30 of SEBI (LODR) Regulation, 2015/2026-27/Intimation dated 12.05.2026 final.pdf",
               },
