@@ -493,6 +493,15 @@ const investorRelationData = [
         files: [],
         children: [
           {
+            name: "2026-27",
+            files: [
+              {
+                name: "30.06.2026",
+                path: "/Images/Icons/Documents/Financial Result/Quarterly Financial Result/2026-27/30.06.2026.pdf",
+              },
+            ],
+          },
+          {
             name: "2025-26",
             files: [
               {
