@@ -366,6 +366,15 @@ const investorRelationData = [
         files: [],
         children: [
           {
+            name: "2026-27",
+            files: [
+              {
+                name: "Newspaper advertisement for results Q1 2026-27",
+                path: "/Images/Icons/Documents/Corporate Annoucements/Newspaper advertisments/2026-27/Newspaper advertisement for results Q1 2026-27.pdf",
+              },
+            ],
+          },
+          {
             name: "2025-26",
             files: [
               {
@@ -450,8 +459,20 @@ const investorRelationData = [
             name: "2026-27",
             files: [
               {
+                name: "Outcome of Board Meeting dated 29.07.2026",
+                path: "/Images/Icons/Documents/Corporate Annoucements/Regulation 30 of SEBI (LODR) Regulation, 2015/2026-27/Outcome of Board Meeting dated 29.07.2026.pdf",
+              },
+              {
+                name: "Intimation for Grant of ESOP dated 29.07.2026",
+                path: "/Images/Icons/Documents/Corporate Annoucements/Regulation 30 of SEBI (LODR) Regulation, 2015/2026-27/Intimation for Grant of ESOP dated 29.07.2026.pdf",
+              },
+              {
                 name: "Outcome of Board Meeting dated 07.07.2026",
                 path: "/Images/Icons/Documents/Corporate Annoucements/Regulation 30 of SEBI (LODR) Regulation, 2015/2026-27/Outcome of Board Meeting dated 07.07.2026.pdf",
+              },
+              {
+                name: "Intimation for Grant and Cancellation of ESOP 12.05.2026",
+                path: "/Images/Icons/Documents/Corporate Annoucements/Regulation 30 of SEBI (LODR) Regulation, 2015/2026-27/Intimation for Grant and Cancellation of ESOP 12.05.2026.pdf",
               },
               {
                 name: "Intimation dated 12.05.2026 final",
@@ -646,6 +667,10 @@ const investorRelationData = [
       {
         name: "2026-27",
         files: [
+          {
+            name: "Prior Intimation Board Meeting-29.07.2026",
+            path: "/Images/Icons/Documents/Notice of Board Meeting/2026-27/Prior Intimation Board Meeting-29.07.2026.pdf",
+          },
           {
             name: "Prior Intimation Board Meeting-12.05.2026",
             path: "/Images/Icons/Documents/Notice of Board Meeting/2026-27/Prior Intimation Board Meeting-12.05.2026.pdf",
