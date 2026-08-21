@@ -5,6 +5,15 @@ const investorRelationData = [
     files: [],
     children: [
       {
+        name: "2025-26",
+        files: [
+          {
+            name: "Trustedge Capital Limited _ AR _ 2025-26 _ final.pdf",
+            path: "/Images/Icons/Documents/Annual Report/2025-26/Trustedge Capital Limited _ AR _ 2025-26 _ final.pdf",
+          },
+        ],
+      },
+      {
         name: "2024-25",
         files: [
           {
@@ -368,6 +377,10 @@ const investorRelationData = [
           {
             name: "2026-27",
             files: [
+              {
+                name: "Pre Dispatch Newspaper dated 18.08.2026 for 32nd AGM",
+                path: "/Images/Icons/Documents/Corporate Annoucements/Newspaper advertisments/2026-27/Pre Dispatch Newspaper dated 18.08.2026 for 32nd AGM.pdf",
+              },
               {
                 name: "Newspaper advertisement for results Q1 2026-27",
                 path: "/Images/Icons/Documents/Corporate Annoucements/Newspaper advertisments/2026-27/Newspaper advertisement for results Q1 2026-27.pdf",
