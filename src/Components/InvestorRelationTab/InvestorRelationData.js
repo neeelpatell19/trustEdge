@@ -378,6 +378,10 @@ const investorRelationData = [
             name: "2026-27",
             files: [
               {
+                name: "Post Dispatch Newspaper dated 22.08.2026 for 32nd AGM",
+                path: "/Images/Icons/Documents/Corporate Annoucements/Newspaper advertisments/2026-27/Post Dispatch Newspaper dated 22.08.2026 for 32nd AGM.pdf",
+              },
+              {
                 name: "Pre Dispatch Newspaper dated 18.08.2026 for 32nd AGM",
                 path: "/Images/Icons/Documents/Corporate Annoucements/Newspaper advertisments/2026-27/Pre Dispatch Newspaper dated 18.08.2026 for 32nd AGM.pdf",
               },
