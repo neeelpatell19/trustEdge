@@ -1055,6 +1055,27 @@ const investorRelationData = [
     files: [],
     children: [
       {
+        name: "2026-27",
+        files: [
+          {
+            name: "TECL_Notice of 32nd AGM",
+            path: "/Images/Icons/Documents/General Meeting Records/2026-27/TECL_Notice of 32nd AGM.pdf",
+          },
+          {
+            name: "Pre Dispatch Newspaper dated 18.08.2026 for 32nd AGM",
+            path: "/Images/Icons/Documents/General Meeting Records/2026-27/Pre dispatch newspaper dated 18.08.2026 for 32nd AGM.PDF",
+          },
+          {
+            name: "Post Dispatch Newspaper dated 22.08.2026 for 32nd AGM",
+            path: "/Images/Icons/Documents/General Meeting Records/2026-27/Post dispatch newspaper dated 22.08.2026 for 32nd AGM.pdf",
+          },
+          {
+            name: "ESOP Certificate 2025-26",
+            path: "/Images/Icons/Documents/General Meeting Records/2026-27/ESOP Certificate 2025-26.pdf",
+          },
+        ],
+      },
+      {
         name: "2025-26",
         files: [
           {
