@@ -537,6 +537,10 @@ const investorRelationData = [
                 name: "30.06.2026",
                 path: "/Images/Icons/Documents/Financial Result/Quarterly Financial Result/2026-27/30.06.2026.pdf",
               },
+              {
+                name: "30.09.2026",
+                path: "/Images/Icons/Documents/Financial Result/Quarterly Financial Result/2026-27/30.09.2026.pdf",
+              },
             ],
           },
           {
