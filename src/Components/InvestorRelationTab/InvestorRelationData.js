@@ -476,6 +476,18 @@ const investorRelationData = [
             name: "2026-27",
             files: [
               {
+                name: "Outcome of Board Meeting dated 26.10.2026",
+                path: "/Images/Icons/Documents/Corporate Annoucements/Regulation 30 of SEBI (LODR) Regulation, 2015/2026-27/Outcome of Board Meeting dated 26.10.2026.pdf",
+              },
+              {
+                name: "Intimation for Cancellation of ESOP 26.10.2026",
+                path: "/Images/Icons/Documents/Corporate Annoucements/Regulation 30 of SEBI (LODR) Regulation, 2015/2026-27/Intimation for Cancellation of ESOP 26.10.2026.pdf",
+              },
+              {
+                name: "Intimation for Resignation of CFO dated 17.10.2026",
+                path: "/Images/Icons/Documents/Corporate Annoucements/Regulation 30 of SEBI (LODR) Regulation, 2015/2026-27/Intimation for Resignation of CFO dated 17.10.2026.pdf",
+              },
+              {
                 name: "Outcome of Board Meeting dated 29.07.2026",
                 path: "/Images/Icons/Documents/Corporate Annoucements/Regulation 30 of SEBI (LODR) Regulation, 2015/2026-27/Outcome of Board Meeting dated 29.07.2026.pdf",
               },
@@ -688,6 +700,10 @@ const investorRelationData = [
       {
         name: "2026-27",
         files: [
+          {
+            name: "Prior Intimation Board Meeting-26.10.2026",
+            path: "/Images/Icons/Documents/Notice of Board Meeting/2026-27/Prior Intimation Board Meeting-26.10.2026.pdf",
+          },
           {
             name: "Prior Intimation Board Meeting-29.07.2026",
             path: "/Images/Icons/Documents/Notice of Board Meeting/2026-27/Prior Intimation Board Meeting-29.07.2026.pdf",
